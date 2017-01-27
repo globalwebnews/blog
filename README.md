@@ -1,0 +1,2 @@
+# blog
+Global web news
